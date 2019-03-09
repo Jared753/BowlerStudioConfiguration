@@ -1,9 +1,18 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/7ebdf81231cca47ce3d173ef8ae55c06.git:extrudePolygon.groovy": [
+      "https://gist.github.com/7ebdf81231cca47ce3d173ef8ae55c06.git",
+      "extrudePolygon.groovy"
+    ],
+    "https://gist.github.com/2a4415f82fa641507e4d6dd882a3b2c7.git:chess piece.groovy": [
+      "https://gist.github.com/2a4415f82fa641507e4d6dd882a3b2c7.git",
+      "chess piece.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.29.2",
-    "fontsize": 12.0,
+    "fontsize": 14,
     "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
