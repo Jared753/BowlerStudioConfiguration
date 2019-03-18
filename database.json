@@ -1,9 +1,13 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/2a4415f82fa641507e4d6dd882a3b2c7.git:chess piece.groovy": [
-      "https://gist.github.com/2a4415f82fa641507e4d6dd882a3b2c7.git",
-      "chess piece.groovy"
+    "https://gist.github.com/c9b499deeac2e088a7c8995f75118f4e.git:union.groovy": [
+      "https://gist.github.com/c9b499deeac2e088a7c8995f75118f4e.git",
+      "union.groovy"
+    ],
+    "https://gist.github.com/9d19a62a2522cb07c4b4df0a94879cbb.git:sphere.groovy": [
+      "https://gist.github.com/9d19a62a2522cb07c4b4df0a94879cbb.git",
+      "sphere.groovy"
     ],
     "https://gist.github.com/e5dcf3dfd0782b50a6344f98575d1dcb.git:cylinder.groovy": [
       "https://gist.github.com/e5dcf3dfd0782b50a6344f98575d1dcb.git",
