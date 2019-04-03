@@ -1,10 +1,6 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/c9b499deeac2e088a7c8995f75118f4e.git:union.groovy": [
-      "https://gist.github.com/c9b499deeac2e088a7c8995f75118f4e.git",
-      "union.groovy"
-    ],
     "https://gist.github.com/410690698f9ae43635126535ad2a680b.git:chess piece.groovy": [
       "https://gist.github.com/410690698f9ae43635126535ad2a680b.git",
       "chess piece.groovy"
